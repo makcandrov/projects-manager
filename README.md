@@ -1,1 +1,1 @@
-# projects-manager
+# Projects Manager
